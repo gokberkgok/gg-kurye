@@ -1,17 +1,22 @@
 # gg-kurye
-FiveM script
-Kurye Job with ESX
+FiveM Script
+
+Kurye Job with ESX, compatible DISC and ESX Inventory 
 
 **DEPENDENCIES**
+
 es-extended
 
 **IMAGES**
+
 ![kargopaketi](https://github.com/gokberkgok/gg-kurye/assets/67126609/756ae005-1609-4c2f-a799-9deb9aec89e4)
 ![paket](https://github.com/gokberkgok/gg-kurye/assets/67126609/f88fb789-e285-4230-b810-5ee2ee7f9593)
 ![urun](https://github.com/gokberkgok/gg-kurye/assets/67126609/28a65434-ef3a-425e-89cb-91ef04dbc8ba)
 
-MIT License
 
+
+
+MIT License
 Copyright (c) 2021 Gökberk
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
